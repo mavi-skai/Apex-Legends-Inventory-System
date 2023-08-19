@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dec2823e8238694cae6c0798459279d, type: 3}
+  m_Name: Common BodyShield
+  m_EditorClassIdentifier: 
+  name: Common BodyShield
+  Stackable: 0
+  sprite:
+  - {fileID: 21300000, guid: eb89b66732b57d5448f1caa60aa1b687, type: 3}
+  grade: 4
+  itemtype: 0
+  geartype: 1
+  bodyshield: 50
+  reduceheadshot: 0
+  knockdownshield: 0
+  BagSpace: 0

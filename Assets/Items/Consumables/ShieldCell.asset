@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f85fbf5566ff2ab4d83cd6c6f5380190, type: 3}
+  m_Name: ShieldCell
+  m_EditorClassIdentifier: 
+  name: ShieldCell
+  Stackable: 1
+  sprite:
+  - {fileID: 21300000, guid: 26d2e01e6871b664da5d637da038fac8, type: 3}
+  - {fileID: 21300000, guid: af636d3257943344389f0d0e85c5b99f, type: 3}
+  - {fileID: 21300000, guid: 13fdb183b6b0a9a4299c578155a8423f, type: 3}
+  - {fileID: 21300000, guid: 2a5533e782795e54680f73d41fdf2838, type: 3}
+  grade: 4
+  itemtype: 1
+  typeofconsumables: 3
+  Maxamount: 4
+  timetouse: 3
+  amountofheal: 0
+  amountofshield: 25
